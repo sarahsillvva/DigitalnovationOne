@@ -1,5 +1,5 @@
 <h1 align="center">
-  BOOTCAMP - TQI  :dart:	
+  BOOTCAMP FULLSTACK- TQI   :dart:	
 </h1>
 <p align="center">
    <img src= "https://img.shields.io/github/last-commit/sarahsillvva/OneBitCode">
